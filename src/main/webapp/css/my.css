@@ -1,0 +1,12 @@
+    table {
+        border:double 5px black;
+        border-collapse: collapse;
+        width: 100px;
+        font-size: 17px;
+    }
+    table th {
+        border: double 5px black;
+    }
+    table td {
+        border: double 5px black;
+    }
